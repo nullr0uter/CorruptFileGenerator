@@ -4,4 +4,5 @@ Just compile the .cpp file like this:
 ```
 g++ -o CorruptedFileGenerator FileGenerator.cpp
 ```
+The program will just create a buch of random bytes according to the wanted size you put into the program.
 # Enjoy :)
